@@ -1,4 +1,9 @@
 {
+"registration": {
+"success": true,
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJ2YWxpZHVudGlsIjoiMTcyNzcwNjk5ODE2MyIsInJvbGUiOiJhZG1pbiJ9.tHDQBMvb7EngLS5evApPSYQ3gAcJ7oWeRRMoZPKDakg",
+"error": []
+},
 "posts": [
 {
 "id": 1,
